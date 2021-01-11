@@ -24,11 +24,11 @@ Plateau de jeu seul :
 
 Exemple de tours successifs de jeu :
 
-[tour 0](/exemples/tour_0.png?raw=true "tour 0")
+[tour 0](/exemples/tour_0.PNG?raw=true "tour 0")
 
-[tour 1](/exemples/tour_1.png?raw=true "tour 1")
+[tour 1](/exemples/tour_1.PNG?raw=true "tour 1")
 
-[tour 2](/exemples/tour_2.png?raw=true "tour 2")
+[tour 2](/exemples/tour_2.PNG?raw=true "tour 2")
 
 
 Fin de Partie :
@@ -40,9 +40,9 @@ Fin de Partie :
 ### 3) Détails du jeu
 
 
-[Déroulement d'un tour](/exemples/deroulement_tour.png?raw=true "Déroulement d'un tour")
+[Déroulement d'un tour](/exemples/deroulement_tour.PNG?raw=true "Déroulement d'un tour")
 
-[Diagramme de classe](/exemples/diagramme_classe.png?raw=true "Diagramme de classe")
+[Diagramme de classe](/exemples/diagramme_classe.PNG?raw=true "Diagramme de classe")
 
 
 
