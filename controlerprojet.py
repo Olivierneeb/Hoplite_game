@@ -1,19 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Dec 25 17:17:51 2020
-
 @author: Neeb Olivier
 """
-
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  5 11:54:37 2020
-
-@author: hamzaelfergougui
-"""
-
 
 from copy import *
 from random import *
