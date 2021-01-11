@@ -6,16 +6,20 @@ Hoplite est un jeu d’aventure où l’on incarne un guerrier qui doit franchir
 
 ### 2) Capture du jeu 
 
-Interface au complet :
+Capture d'écran du jeu Holplite original sur Android :
+
+[Jeu modèle](/exemples/plateau_et_ennemis.jpg?raw=true "Plateau et ennemis")
+
+
+Interface codée :
 
 [Exemple de partie](/exemples/scene_jeu.png?raw=true "Exemple de partie") 
 
 
-Plateau de jeu, sans et avec ennemis dessus :
+Plateau de jeu seul :
 
 [Plateau seul](/exemples/plateau.png?raw=true "Plateau seul")
  
-[Plateau et ennemis](/exemples/plateau_et_ennemis.jpg?raw=true "Plateau et ennemis")
 
 
 Exemple de tours successifs de jeu :
