@@ -6,8 +6,45 @@ Hoplite est un jeu d’aventure où l’on incarne un guerrier qui doit franchir
 
 ### 2) Capture du jeu 
 
+Interface au complet :
 
- [Alt text](/archer.png?raw=true "Optional Title") 
+[Exemple de partie](/exemples/scene_jeu.png?raw=true "Exemple de partie") 
+
+
+Plateau de jeu, sans et avec ennemis dessus :
+
+[Plateau seul](/exemples/scene_jeu.png?raw=true "Plateau seul")
  
- 
-[My image](https://github.com/Olivierneeb/Hoplite_game/archer.png)
+[Plateau et ennemis](/exemples/plateau_et_ennemis.png?raw=true "Plateau et ennemis")
+
+
+Exemple de tours successifs de jeu :
+
+[tour 0](/exemples/tour_0.png?raw=true "tour 0")
+
+[tour 1](/exemples/tour_1.png?raw=true "tour 1")
+
+[tour 2](/exemples/tour_2.png?raw=true "tour 2")
+
+
+Fin de Partie :
+
+[Victoire](/exemples/victoire.png?raw=true "Victoire")
+
+[Défaite !](/exemples/Défaite.png?raw=true "Défaite")
+
+### 3) Détails du jeu
+
+
+[Déroulement d'un tour](/exemples/deroulement_tour.png?raw=true "Déroulement d'un tour")
+
+[Diagramme de classe](/exemples/diagramme_classe.png?raw=true "Diagramme de classe")
+
+
+
+
+
+
+
+
+
