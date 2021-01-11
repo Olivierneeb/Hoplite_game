@@ -13,7 +13,7 @@ Capture d'écran du jeu Holplite original sur Android :
 
 Interface codée :
 
-[Exemple de partie](/exemples/scene_jeu.png?raw=true "Exemple de partie") 
+[Exemple de partie](/exemples/scene_jeu.PNG?raw=true "Exemple de partie") 
 
 
 Plateau de jeu seul :
