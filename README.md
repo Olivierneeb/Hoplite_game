@@ -7,7 +7,7 @@ Hoplite est un jeu d’aventure où l’on incarne un guerrier qui doit franchir
 ### 2) Capture du jeu 
 
 
- [Alt text](/archer.png ?raw=true "Optional Title") 
+ [Alt text](/archer.png?raw=true "Optional Title") 
  
  
 [My image](https://github.com/Olivierneeb/Hoplite_game/archer.png)
