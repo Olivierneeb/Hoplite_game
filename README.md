@@ -7,4 +7,4 @@ Hoplite est un jeu d’aventure où l’on incarne un guerrier qui doit franchir
 ### 2) Capture du jeu 
 
 
- ![Alt text](images hoplite/jeu_hoplite.png?raw=true "Aperçu du jeu") 
+ ![Alt text](images hoplite/scene de jeu.png?raw=true "Aperçu du jeu") 
