@@ -13,9 +13,9 @@ Interface au complet :
 
 Plateau de jeu, sans et avec ennemis dessus :
 
-[Plateau seul](/exemples/scene_jeu.png?raw=true "Plateau seul")
+[Plateau seul](/exemples/plateau.png?raw=true "Plateau seul")
  
-[Plateau et ennemis](/exemples/plateau_et_ennemis.png?raw=true "Plateau et ennemis")
+[Plateau et ennemis](/exemples/plateau_et_ennemis.jpg?raw=true "Plateau et ennemis")
 
 
 Exemple de tours successifs de jeu :
