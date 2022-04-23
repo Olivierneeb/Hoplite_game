@@ -8,41 +8,64 @@ Hoplite est un jeu d’aventure où l’on incarne un guerrier qui doit franchir
 
 Capture d'écran du jeu Holplite original sur Android :
 
-[Jeu modèle](/exemples/plateau_et_ennemis.jpg?raw=true "Plateau et ennemis")
-
+<p align="center">
+  <img src = "/exemples/plateau_et_ennemis.jpg" width = "500">
+</p>
 
 Interface codée :
 
-[Exemple de partie](/exemples/scene_jeu.PNG?raw=true "Exemple de partie") 
+<p align="center">
+  <img src = "/exemples/scene_jeu.PNG" width = "500">
+</p>
 
+Plateau de jeu sans ennemi :
 
-Plateau de jeu seul :
-
-[Plateau seul](/exemples/plateau.png?raw=true "Plateau seul")
- 
+ <p align="center">
+  <img src = "/exemples/plateau.png" width = "500">
+</p>
 
 
 Exemple de tours successifs de jeu :
 
-[tour 0](/exemples/tour_0.PNG?raw=true "tour 0")
+Tour 0 
+<p align="center">
+  <img src = "/exemples/tour_0.PNG" width = "500">
+</p>
 
-[tour 1](/exemples/tour_1.PNG?raw=true "tour 1")
+Tour 1 
+<p align="center">
+  <img src = "/exemples/tour_1.PNG" width = "500">
+</p>
 
-[tour 2](/exemples/tour_2.PNG?raw=true "tour 2")
-
+Tour 2
+<p align="center">
+  <img src = "/exemples/tour_2.PNG" width = "500">
+</p>
 
 Fin de Partie :
 
-[Victoire](/exemples/victoire.png?raw=true "Victoire")
+Victoire
+<p align="center">
+  <img src = "/exemples/victoire.png" width = "500">
+</p>
 
-[Défaite !](/exemples/Défaite.png?raw=true "Défaite")
+Défaite 
+<p align="center">
+  <img src = "/exemples/Défaite.png" width = "500">
+</p>
 
 ### 3) Détails du jeu
 
+Déroulement d'un tour
 
-[Déroulement d'un tour](/exemples/deroulement_tour.PNG?raw=true "Déroulement d'un tour")
+<p align="center">
+  <img src = "/exemples/deroulement_tour.PNG" width = "500">
+</p>
 
-[Diagramme de classe](/exemples/diagramme_classe.PNG?raw=true "Diagramme de classe")
+Diagramme de classe
+<p align="center">
+  <img src = "/exemples/diagramme_classe.PNG" width = "500">
+</p>
 
 
 
